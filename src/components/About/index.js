@@ -10,7 +10,8 @@ function About() {
         className="my-2"
         style={{ width: "100%" }}
         alt="cover"
-      />
+          />
+          <p>Paragraph describing the About Me section</p>
     </section>
   );
 }
